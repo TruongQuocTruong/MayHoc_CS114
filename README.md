@@ -1,2 +1,8 @@
 # CS114.L22.KHCL
-Assignment Create Account Github &amp; Repository
+Create Account Github & Repository
+# GIỚI THIỆU
+Họ Tên: Trương Quốc Trường
+MSSV: 19522446
+Lớp: KHCL2019.3
+
+
