@@ -1,5 +1,5 @@
 # CS114.L22.KHCL
-Create Account Github & Repository
+Bài tập nhóm và đồ án cuối kỳ môn Máy Học
 # GIỚI THIỆU
 
 - Thành viên nhóm:
