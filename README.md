@@ -1,5 +1,5 @@
 # CS114.L22.KHCL
-Bài tập nhóm và đồ án cuối kỳ môn Máy Học
+Máy Học
 # GIỚI THIỆU
 
 - Thành viên nhóm:
