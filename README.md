@@ -1,5 +1,6 @@
-# CS114.L22.KHCL
-Máy Học
+Các assignments và projects môn Máy Học
+
+
 # GIỚI THIỆU
 
 - Thành viên nhóm:
